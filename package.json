@@ -1,0 +1,11 @@
+{
+  "name": "mc-bedrock-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bedrock-protocol": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
